@@ -4,7 +4,7 @@ import akka.testkit._
 import org.specs2.mutable._
 import org.specs2.time.NoTimeConversions
 
-class ActorSystemRepeatTest
+class ActorSystemRepeatTestKit
     extends Specification
     with NoTimeConversions{
   "actors" should {
